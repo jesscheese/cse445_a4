@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks
+    xmlns="http://tempuri.org/NationalParks"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://jesscheese.github.io/cse445_a4/NationalParks.xsd">
 
