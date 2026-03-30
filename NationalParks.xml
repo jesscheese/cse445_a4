@@ -2,6 +2,18 @@
 <NationalParks>
 
   <NationalPark Rating="4.8">
+    <Name>Olympic National Park</Name>
+    <Phone>360-565-3100</Phone>
+    <Address NearestAirport="Seattle-Tacoma"> 
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.8">
     <Name>Grand Canyon National Park</Name>
     <Phone>928-638-7888</Phone>
     <Address NearestAirport="Flagstaff"> 
